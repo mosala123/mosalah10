@@ -67,7 +67,7 @@ body{
     top: 0;
     transform: translate(-600%);
     text-align:center;
-} on   .show{
+}  .show{
     transform: translate(0);
     behavior: smooth;
 
