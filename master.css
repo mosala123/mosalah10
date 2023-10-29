@@ -82,6 +82,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
+    padding:5px 0;
 }
 
 .left-section nav a:hover{
@@ -276,6 +277,7 @@ text-align: center;
     box-shadow:  2px 3px 1px 3px rgba(121, 101, 3, 0.801);
     font-weight: 700;
     width: 80%;
+        margin:10px 0;
 }
 .center-end a:nth-child(2)
 ,.end-end a:nth-child(2){
@@ -287,6 +289,7 @@ text-align: center;
     font-weight: 700;
     box-shadow:  2px 3px 1px 3px rgba(121, 101, 3, 0.801);
     color: blue;
+    margin: 10px 0;
  }
 .final a{
   
@@ -298,6 +301,7 @@ text-align: center;
     box-shadow:  2px 3px 1px 3px rgba(121, 101, 3, 0.801);
     font-size: 24px;  
     width: 80%;
+    margin:10px 0;
 }
 /* up down */
 .up-down{
@@ -342,7 +346,7 @@ nav {
 .left-section nav a{
     font-size: 25px;;
     font-weight: 600;
-    padding:  4px;
+    padding:  5px 0 ;
 }
 .close{
     top: 10px;
