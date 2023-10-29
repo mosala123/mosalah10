@@ -56,16 +56,17 @@ body{
 .left-section nav{
     position: absolute;
     background: #222;
-    width: 450px;
-    height: 350px;
+    width: 480px;
+    height: 360px;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     z-index: 9999;
     left: 0;
-    top: 3px;
+    top: 7px;
     transform: translate(-600%);
+    text-align:center;
 }
 .left-section   .show{
     transform: translate(0);
