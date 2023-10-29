@@ -160,7 +160,7 @@ if(localStorage.counter !=null){
 // up and down
 let upDown=document.getElementById("updown");
 window.onscroll=function(){
-    if(window.scrollY> 1300){
+    if(window.scrollY> 900){
         upDown.classList.add("right");
     }else{
         upDown.classList.remove("right");
