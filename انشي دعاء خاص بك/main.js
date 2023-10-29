@@ -5,9 +5,7 @@ let create =document.getElementById("create");
 // ceater
 create.onclick=function(){
 if(input.value !=""){
-    console.log("h")
 h2.style.display="block"
-    window.re
 }
 clearData()
 }
