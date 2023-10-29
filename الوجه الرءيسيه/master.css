@@ -56,7 +56,7 @@ body{
 .left-section nav{
     position: absolute;
     background: #222;
-    width: 400px;
+    width: 450px;
     height: 350px;
     display: flex;
     flex-direction: column;
