@@ -56,8 +56,8 @@ body{
 .left-section nav{
     position: absolute;
     background: #222;
-    width: 470px;
-    height: 410px;
+    width: 400px;
+    height: 400px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -67,8 +67,7 @@ body{
     top: 0;
     transform: translate(-600%);
     text-align:center;
-}
-.left-section   .show{
+} on   .show{
     transform: translate(0);
     behavior: smooth;
 
@@ -83,7 +82,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    padding:7px 0;
+    
 }
 
 .left-section nav a:hover{
