@@ -151,6 +151,7 @@ if(localStorage.counter !=null){
     count= JSON.parse(localStorage.counter);
 }else{
 };
+
  counterIncrase.onclick=function(){
    counterIncrase.innerHTML=` الان عدد المسبحين: ${count}`; 
    localStorage.setItem("counter", JSON.stringify(count));
@@ -160,7 +161,7 @@ if(localStorage.counter !=null){
 // up and down
 let upDown=document.getElementById("updown");
 window.onscroll=function(){
-    if(window.scrollY> 1300){
+    if(window.scrollY> 900){
         upDown.classList.add("right");
     }else{
         upDown.classList.remove("right");
