@@ -64,7 +64,7 @@ body{
     justify-content: center;
     z-index: 9999;
     left: 0;
-    top: 0;
+    top: 3px;
     transform: translate(-600%);
 }
 .left-section   .show{
