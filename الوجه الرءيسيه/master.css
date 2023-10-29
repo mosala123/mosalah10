@@ -57,7 +57,7 @@ body{
     position: absolute;
     background: #222;
     width: 400px;
-    height: 320px;
+    height: 350px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -82,7 +82,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    padding:5px 0;
+/*     padding:5px 0; */
     
 }
 
