@@ -82,7 +82,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    padding:5px 0;
+    padding:7px 0;
 }
 
 .left-section nav a:hover{
