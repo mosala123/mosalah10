@@ -57,7 +57,7 @@ body{
     position: absolute;
     background: #222;
     width: 400px;
-    height: 260px;
+    height: 300px;
     display: flex;
     flex-direction: column;
     align-items: center;
