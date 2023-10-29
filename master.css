@@ -56,8 +56,8 @@ body{
 .left-section nav{
     position: absolute;
     background: #222;
-    width: 400px;
-    height: 320px;
+    width: 430px;
+    height: 350px;
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -73,7 +73,7 @@ body{
 
 }
 .left-section nav a{
-    width: 100%;
+    width: 10%;
     text-decoration: none;
     text-transform: capitalize;
     color: rgb(255, 217, 0);
